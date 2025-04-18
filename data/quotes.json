@@ -18,5 +18,517 @@
   {
     "text": "You have an entire life to be an idiot. Why not take today off?",
     "slug": "you-have-an-entire-life-to-be-an-idiot-why-not-take-today-off"
+  },
+  {
+    "text": "Your face makes onions cry.",
+    "slug": "your-face-makes-onions-cry"
+  },
+  {
+    "text": "You're not stupid; you just have bad luck thinking.",
+    "slug": "youre-not-stupid-you-just-have-bad-luck-thinking"
+  },
+  {
+    "text": "I have nothing but respect for you -- and not much of that.",
+    "slug": "i-have-nothing-but-respect-for-you-and-not-much-of-that"
+  },
+  {
+    "text": "Thank you for your input. (Then change the subject.)",
+    "slug": "thank-you-for-your-input-then-change-the-subject"
+  },
+  {
+    "text": "As an outsider, what is your perspective on intelligence?",
+    "slug": "as-an-outsider-what-is-your-perspective-on-intelligence"
+  },
+  {
+    "text": "I wish we could become better strangers.",
+    "slug": "i-wish-we-could-become-better-strangers"
+  },
+  {
+    "text": "I would challenge you to a battle of wits, but I see you are unarmed!",
+    "slug": "i-would-challenge-you-to-a-battle-of-wits-but-i-see-you-are-unarmed"
+  },
+  {
+    "text": "Clearly you've been educated beyond your capacity for thought.",
+    "slug": "clearly-you-ve-been-educated-beyond-your-capacity-for-thought"
+  },
+  {
+    "text": "My days of not taking you seriously are certainly coming to a middle.",
+    "slug": "my-days-of-not-taking-you-seriously-are-certainly-coming-to-a-middle"
+  },
+  {
+    "text": "I take it you weren't burdened with an overabundance of schooling.",
+    "slug": "i-take-it-you-weren-t-burdened-with-an-overabundance-of-schooling"
+  },
+  {
+    "text": "I wish that for a moment you could stand in my shoes, then you'd know what a drag it is to see you.",
+    "slug": "i-wish-that-for-a-moment-you-could-stand-in-my-shoes-then-you-d-know-what-a-drag-it-is-to-see-you"
+  },
+  {
+    "text": "Stop wasting your breath.",
+    "slug": "stop-wasting-your-breath"
+  },
+  {
+    "text": "You're impossible to underestimate.",
+    "slug": "you-re-impossible-to-underestimate"
+  },
+  {
+    "text": "Whoever told you to be yourself simply couldn't have given you worse advice.",
+    "slug": "whoever-told-you-to-be-yourself-simply-couldn-t-have-given-you-worse-advice"
+  },
+  {
+    "text": "You have an impeccable grasp of the obvious.",
+    "slug": "you-have-an-impeccable-grasp-of-the-obvious"
+  },
+  {
+    "text": "There is nothing you can do that will make me think less of you.",
+    "slug": "there-is-nothing-you-can-do-that-will-make-me-think-less-of-you"
+  },
+  {
+    "text": "You are like the first piece of bread in a loaf. Everybody touches you but nobody wants you.",
+    "slug": "you-are-like-the-first-piece-of-bread-in-a-loaf-everybody-touches-you-but-nobody-wants-you"
+  },
+  {
+    "text": "You haven't been yourself lately. We've all noticed the improvement.",
+    "slug": "you-haven-t-been-yourself-lately-we-ve-all-noticed-the-improvement"
+  },
+  {
+    "text": "You are the human equivalent of a participation award.",
+    "slug": "you-are-the-human-equivalent-of-a-participation-award"
+  },
+  {
+    "text": "I envy people who haven't met you.",
+    "slug": "i-envy-people-who-haven-t-met-you"
+  },
+  {
+    "text": "In the morning I shall be sober, but you will still be ugly.",
+    "slug": "in-the-morning-i-shall-be-sober-but-you-will-still-be-ugly"
+  },
+  {
+    "text": "I've been called worse things by better people.",
+    "slug": "i-ve-been-called-worse-things-by-better-people"
+  },
+  {
+    "text": "I don't know why you're playing hard to get when you're so hard to want.",
+    "slug": "i-don-t-know-why-you-re-playing-hard-to-get-when-you-re-so-hard-to-want"
+  },
+  {
+    "text": "I hope the rest of your day is as pleasant as you are.",
+    "slug": "i-hope-the-rest-of-your-day-is-as-pleasant-as-you-are"
+  },
+  {
+    "text": "You should eat the make-up. Then you can be pretty on the inside.",
+    "slug": "you-should-eat-the-make-up-then-you-can-be-pretty-on-the-inside"
+  },
+  {
+    "text": "Everyone who ever loved you was wrong.",
+    "slug": "everyone-who-ever-loved-you-was-wrong"
+  },
+  {
+    "text": "I hope that both sides of your pillow are warm when you go to bed tonight.",
+    "slug": "i-hope-that-both-sides-of-your-pillow-are-warm-when-you-go-to-bed-tonight"
+  },
+  {
+    "text": "Don't listen to what everyone says about you, you're alright.",
+    "slug": "don-t-listen-to-what-everyone-says-about-you-you-re-alright"
+  },
+  {
+    "text": "Now I know why people talk about you behind your back.",
+    "slug": "now-i-know-why-people-talk-about-you-behind-your-back"
+  },
+  {
+    "text": "Thank you. We're all refreshed and challenged by your unique point of view.",
+    "slug": "thank-you-we-re-all-refreshed-and-challenged-by-your-unique-point-of-view"
+  },
+  {
+    "text": "I don't know what your problem is, but I bet it's hard to pronounce.",
+    "slug": "i-don-t-know-what-your-problem-is-but-i-bet-it-s-hard-to-pronounce"
+  },
+  {
+    "text": "If you had brains you would be dangerous.",
+    "slug": "if-you-had-brains-you-would-be-dangerous"
+  },
+  {
+    "text": "You're not pretty enough to be this stupid.",
+    "slug": "you-re-not-pretty-enough-to-be-this-stupid"
+  },
+  {
+    "text": "I am sure you did your best.",
+    "slug": "i-am-sure-you-did-your-best"
+  },
+  {
+    "text": "I can explain it to you, but I can't understand it for you.",
+    "slug": "i-can-explain-it-to-you-but-i-can-t-understand-it-for-you"
+  },
+  {
+    "text": "I don't have the time or the crayons to explain this to you right now.",
+    "slug": "i-don-t-have-the-time-or-the-crayons-to-explain-this-to-you-right-now"
+  },
+  {
+    "text": "Who do I have to donate money to get you help?",
+    "slug": "who-do-i-have-to-donate-money-to-get-you-help"
+  },
+  {
+    "text": "If I wanted to kill myself I would climb your ego and jump to your IQ.",
+    "slug": "if-i-wanted-to-kill-myself-i-would-climb-your-ego-and-jump-to-your-iq"
+  },
+  {
+    "text": "I'm sorry I hurt your feelings when I called you stupid, I really thought you already knew.",
+    "slug": "i-m-sorry-i-hurt-your-feelings-when-i-called-you-stupid-i-really-thought-you-already-knew"
+  },
+  {
+    "text": "It's ok if you disagree with me, I can't force you to be right.",
+    "slug": "it-s-ok-if-you-disagree-with-me-i-can-t-force-you-to-be-right"
+  },
+  {
+    "text": "I'm busy right now, can I ignore you some other time?",
+    "slug": "i-m-busy-right-now-can-i-ignore-you-some-other-time"
+  },
+  {
+    "text": "I'm sorry I offended you with my common sense.",
+    "slug": "i-m-sorry-i-offended-you-with-my-common-sense"
+  },
+  {
+    "text": "The last thing I want to do is hurt you... But it's still on the list.",
+    "slug": "the-last-thing-i-want-to-do-is-hurt-you-but-it-s-still-on-the-list"
+  },
+  {
+    "text": "Your mom should've swallowed.",
+    "slug": "your-mom-should-ve-swallowed"
+  },
+  {
+    "text": "You're twice as dumb and half as smart as you think you are.",
+    "slug": "you-re-twice-as-dumb-and-half-as-smart-as-you-think-you-are"
+  },
+  {
+    "text": "You are unworthy of the lego you stepped on.",
+    "slug": "you-are-unworthy-of-the-lego-you-stepped-on"
+  },
+  {
+    "text": "Were you born this way or did you have an accident?",
+    "slug": "were-you-born-this-way-or-did-you-have-an-accident"
+  },
+  {
+    "text": "Your mother dresses you funny.",
+    "slug": "your-mother-dresses-you-funny"
+  },
+  {
+    "text": "You've got a great face for the radio business.",
+    "slug": "you-ve-got-a-great-face-for-the-radio-business"
+  },
+  {
+    "text": "I could agree with you, but then we'd both be wrong.",
+    "slug": "i-could-agree-with-you-but-then-we-d-both-be-wrong"
+  },
+  {
+    "text": "You're about as useful as Anne Frank's drum set.",
+    "slug": "you-re-about-as-useful-as-anne-frank-s-drum-set"
+  },
+  {
+    "text": "You deprive me of privacy without providing the benefit of company.",
+    "slug": "you-deprive-me-of-privacy-without-providing-the-benefit-of-company"
+  },
+  {
+    "text": "Your face looks like something I drew with my left hand.",
+    "slug": "your-face-looks-like-something-i-drew-with-my-left-hand"
+  },
+  {
+    "text": "If your IQ was any lower I'd have to water you twice a day.",
+    "slug": "if-your-iq-was-any-lower-i-d-have-to-water-you-twice-a-day"
+  },
+  {
+    "text": "You are selectively competent.",
+    "slug": "you-are-selectively-competent"
+  },
+  {
+    "text": "You're the reason no one likes you.",
+    "slug": "you-re-the-reason-no-one-likes-you"
+  },
+  {
+    "text": "You've never been accused of being intelligent have you?",
+    "slug": "you-ve-never-been-accused-of-being-intelligent-have-you"
+  },
+  {
+    "text": "You were meant to be a blow job.",
+    "slug": "you-were-meant-to-be-a-blow-job"
+  },
+  {
+    "text": "Were you born stupid, or did you grow that way?",
+    "slug": "were-you-born-stupid-or-did-you-grow-that-way"
+  },
+  {
+    "text": "At your level, even breathing must be an achievement.",
+    "slug": "at-your-level-even-breathing-must-be-an-achievement"
+  },
+  {
+    "text": "I'd call you a cunt, but you have neither the warmth nor the depth.",
+    "slug": "i-d-call-you-a-cunt-but-you-have-neither-the-warmth-nor-the-depth"
+  },
+  {
+    "text": "Bless your heart.",
+    "slug": "bless-your-heart"
+  },
+  {
+    "text": "You'll have a lightly attended funeral.",
+    "slug": "you-ll-have-a-lightly-attended-funeral"
+  },
+  {
+    "text": "I think you have your ambitions and abilities mixed up.",
+    "slug": "i-think-you-have-your-ambitions-and-abilities-mixed-up"
+  },
+  {
+    "text": "You are every bit as charming as I'd imagined.",
+    "slug": "you-are-every-bit-as-charming-as-i-d-imagined"
+  },
+  {
+    "text": "You're living proof that some village somewhere is missing it's idiot.",
+    "slug": "you-re-living-proof-that-some-village-somewhere-is-missing-it-s-idiot"
+  },
+  {
+    "text": "That's really good for a person like you.",
+    "slug": "that-s-really-good-for-a-person-like-you"
+  },
+  {
+    "text": "I would unplug your life support to charge my phone.",
+    "slug": "i-would-unplug-your-life-support-to-charge-my-phone"
+  },
+  {
+    "text": "I have so many questions for your parents.",
+    "slug": "i-have-so-many-questions-for-your-parents"
+  },
+  {
+    "text": "Most people just tolerate you.",
+    "slug": "most-people-just-tolerate-you"
+  },
+  {
+    "text": "I hope your next meal is disappointing.",
+    "slug": "i-hope-your-next-meal-is-disappointing"
+  },
+  {
+    "text": "I hope you step on a lego.",
+    "slug": "i-hope-you-step-on-a-lego"
+  },
+  {
+    "text": "I see you've set aside this special time to humiliate yourself in public.",
+    "slug": "i-see-you-ve-set-aside-this-special-time-to-humiliate-yourself-in-public"
+  },
+  {
+    "text": "I will always cherish the initial misconceptions I had about you.",
+    "slug": "i-will-always-cherish-the-initial-misconceptions-i-had-about-you"
+  },
+  {
+    "text": "Did the middle of my sentence interrupt the start of yours?",
+    "slug": "did-the-middle-of-my-sentence-interrupt-the-start-of-yours"
+  },
+  {
+    "text": "May the chocolate chips in your cookies always turn out to be raisins.",
+    "slug": "may-the-chocolate-chips-in-your-cookies-always-turn-out-to-be-raisins"
+  },
+  {
+    "text": "May every sock you wear be slightly rotated, just enough for it to be uncomfortable.",
+    "slug": "may-every-sock-you-wear-be-slightly-rotated-just-enough-for-it-to-be-uncomfortable"
+  },
+  {
+    "text": "May you forever feel your cellphone vibrating in the pocket it's not even in.",
+    "slug": "may-you-forever-feel-your-cellphone-vibrating-in-the-pocket-it-s-not-even-in"
+  },
+  {
+    "text": "May you always get up from your computer with your headphones still attached.",
+    "slug": "may-you-always-get-up-from-your-computer-with-your-headphones-still-attached"
+  },
+  {
+    "text": "May your chair produce a sound similar to a fart, but only once, such that you cannot reproduce it to prove that it was just the chair.",
+    "slug": "may-your-chair-produce-a-sound-similar-to-a-fart-but-only-once-such-that-you-cannot-reproduce-it-to-prove-that-it-was-just-the-chair"
+  },
+  {
+    "text": "May your five year old neighbour have his violin lessons during all of your hangovers.",
+    "slug": "may-your-five-year-old-neighbour-have-his-violin-lessons-during-all-of-your-hangovers"
+  },
+  {
+    "text": "May you always step in a wet spot after putting on fresh socks.",
+    "slug": "may-you-always-step-in-a-wet-spot-after-putting-on-fresh-socks"
+  },
+  {
+    "text": "May your tea be too hot when you receive it, and too cold by the time you remember it's there.",
+    "slug": "may-your-tea-be-too-hot-when-you-receive-it-and-too-cold-by-the-time-you-remember-it-s-there"
+  },
+  {
+    "text": "May your cookie always be slightly too large to fit inside your glass of milk.",
+    "slug": "may-your-cookie-always-be-slightly-too-large-to-fit-inside-your-glass-of-milk"
+  },
+  {
+    "text": "May the pin of the bathroom stall never reach the lock to close the door.",
+    "slug": "may-the-pin-of-the-bathroom-stall-never-reach-the-lock-to-close-the-door"
+  },
+  {
+    "text": "May you never be quite certain whether that pressure is a fart or poop.",
+    "slug": "may-you-never-be-quite-certain-whether-that-pressure-is-a-fart-or-poop"
+  },
+  {
+    "text": "May your spoon always slip and sink under the hot soup you eat.",
+    "slug": "may-your-spoon-always-slip-and-sink-under-the-hot-soup-you-eat"
+  },
+  {
+    "text": "I love how you state the obvious with such a sense of discovery.",
+    "slug": "i-love-how-you-state-the-obvious-with-such-a-sense-of-discovery"
+  },
+  {
+    "text": "I hope you can never find the right water temperature when you shower.",
+    "slug": "i-hope-you-can-never-find-the-right-water-temperature-when-you-shower"
+  },
+  {
+    "text": "I would insult you but nature did a better job.",
+    "slug": "i-would-insult-you-but-nature-did-a-better-job"
+  },
+  {
+    "text": "I'd love to see things from your perspective, but I don't think I could shove my head that far up my ass.",
+    "slug": "i-d-love-to-see-things-from-your-perspective-but-i-don-t-think-i-could-shove-my-head-that-far-up-my-ass"
+  },
+  {
+    "text": "You're the reason the gene pool needs a lifeguard.",
+    "slug": "you-re-the-reason-the-gene-pool-needs-a-lifeguard"
+  },
+  {
+    "text": "You did a really good job tying your shoes this morning. We're all really proud of you and what you're able to accomplish.",
+    "slug": "you-did-a-really-good-job-tying-your-shoes-this-morning-we-re-all-really-proud-of-you-and-what-you-re-able-to-accomplish"
+  },
+  {
+    "text": "That little voice in the back of your head, telling you you'll never be good enough? It's right.",
+    "slug": "that-little-voice-in-the-back-of-your-head-telling-you-you-ll-never-be-good-enough-it-s-right"
+  },
+  {
+    "text": "If I was in a room with you, Osama bin Laden and Hitler and I had a gun and only two bullets, I'd shoot you twice.",
+    "slug": "if-i-was-in-a-room-with-you-osama-bin-laden-and-hitler-and-i-had-a-gun-and-only-two-bullets-i-d-shoot-you-twice"
+  },
+  {
+    "text": "You have the personality of wallpaper.",
+    "slug": "you-have-the-personality-of-wallpaper"
+  },
+  {
+    "text": "I considered your point of view and decided to move on with my life.",
+    "slug": "i-considered-your-point-of-view-and-decided-to-move-on-with-my-life"
+  },
+  {
+    "text": "Excuse me for talking while you're interrupting.",
+    "slug": "excuse-me-for-talking-while-you-re-interrupting"
+  },
+  {
+    "text": "The world is full of all kinds of beautiful stuff. But then there's you, ruining it.",
+    "slug": "the-world-is-full-of-all-kinds-of-beautiful-stuff-but-then-there-s-you-ruining-it"
+  },
+  {
+    "text": "I hope your shower runs out of hot water as soon as you start shampooing. ",
+    "slug": "i-hope-your-shower-runs-out-of-hot-water-as-soon-as-you-start-shampooing"
+  },
+  {
+    "text": "I hope someone drives slightly slower than you'd like on a busy road.",
+    "slug": "i-hope-someone-drives-slightly-slower-than-you-d-like-on-a-busy-road"
+  },
+  {
+    "text": "I hope you go into a room and forget why you went in there.",
+    "slug": "i-hope-you-go-into-a-room-and-forget-why-you-went-in-there"
+  },
+  {
+    "text": "Nothing brightens up a room like your absence.",
+    "slug": "nothing-brightens-up-a-room-like-your-absence"
+  },
+  {
+    "text": "I love the sound you make when you shut up.",
+    "slug": "i-love-the-sound-you-make-when-you-shut-up"
+  },
+  {
+    "text": "The reason why you get easily lost in thought is because it's unfamiliar territory.",
+    "slug": "the-reason-why-you-get-easily-lost-in-thought-is-because-it-s-unfamiliar-territory"
+  },
+  {
+    "text": "I'd insult you, but you're not bright enough to notice.",
+    "slug": "i-d-insult-you-but-you-re-not-bright-enough-to-notice"
+  },
+  {
+    "text": "Don't ask me any questions, I just might tell you the truth.",
+    "slug": "don-t-ask-me-any-questions-i-just-might-tell-you-the-truth"
+  },
+  {
+    "text": "I'd love to go out with you, but I'm attending the opening of my garage door.",
+    "slug": "i-d-love-to-go-out-with-you-but-i-m-attending-the-opening-of-my-garage-door"
+  },
+  {
+    "text": "How many times do I have to flush to get rid of you?",
+    "slug": "how-many-times-do-i-have-to-flush-to-get-rid-of-you"
+  },
+  {
+    "text": "I like you. You remind me of when I was young and stupid.",
+    "slug": "i-like-you-you-remind-me-of-when-i-was-young-and-stupid"
+  },
+  {
+    "text": "Here is some money, call someone who cares.",
+    "slug": "here-is-some-money-call-someone-who-cares"
+  },
+  {
+    "text": "If I want your opinion, I'll ask you to fill out the necessary forms.",
+    "slug": "if-i-want-your-opinion-i-ll-ask-you-to-fill-out-the-necessary-forms"
+  },
+  {
+    "text": "I'd explain it to you, but your brain would explode.",
+    "slug": "i-d-explain-it-to-you-but-your-brain-would-explode"
+  },
+  {
+    "text": "Ever since I saw you in your family tree, I've wanted to cut it down.",
+    "slug": "ever-since-i-saw-you-in-your-family-tree-i-ve-wanted-to-cut-it-down"
+  },
+  {
+    "text": "Brains aren't everything. In your case they're nothing.",
+    "slug": "brains-aren-t-everything-in-your-case-they-re-nothing"
+  },
+  {
+    "text": "Don't you need a license to be that ugly?",
+    "slug": "don-t-you-need-a-license-to-be-that-ugly"
+  },
+  {
+    "text": "Are you always an idiot, or just when I'm around?",
+    "slug": "are-you-always-an-idiot-or-just-when-i-m-around"
+  },
+  {
+    "text": "You remind me of the ocean -- you make me sick.",
+    "slug": "you-remind-me-of-the-ocean-you-make-me-sick"
+  },
+  {
+    "text": "When you die, I'd like to go to your funeral, but I'll probably go to work that day. I believe in business before pleasure.",
+    "slug": "when-you-die-i-d-like-to-go-to-your-funeral-but-i-ll-probably-go-to-work-that-day-i-believe-in-business-before-pleasure"
+  },
+  {
+    "text": "I don't mind that you are talking so long as you don't mind that I'm not listening.",
+    "slug": "i-don-t-mind-that-you-are-talking-so-long-as-you-don-t-mind-that-i-m-not-listening"
+  },
+  {
+    "text": "If ignorance is bliss, you must be the happiest person on earth.",
+    "slug": "if-ignorance-is-bliss-you-must-be-the-happiest-person-on-earth"
+  },
+  {
+    "text": "If I told you that I have a piece of dirt in my eye, would you move?",
+    "slug": "if-i-told-you-that-i-have-a-piece-of-dirt-in-my-eye-would-you-move"
+  },
+  {
+    "text": "If ugly were a crime, you'd get a life sentence.",
+    "slug": "if-ugly-were-a-crime-you-d-get-a-life-sentence"
+  },
+  {
+    "text": "You're so dense, light bends around you.",
+    "slug": "you-re-so-dense-light-bends-around-you"
+  },
+  {
+    "text": "Sorry but you've obviously mistaken me for someone who gives a damn.",
+    "slug": "sorry-but-you-ve-obviously-mistaken-me-for-someone-who-gives-a-damn"
+  },
+  {
+    "text": "Sit down and give your mind a rest.",
+    "slug": "sit-down-and-give-your-mind-a-rest"
+  },
+  {
+    "text": "Sure, I've seen people like you before -- but I had to pay an admission.",
+    "slug": "sure-i-ve-seen-people-like-you-before-but-i-had-to-pay-an-admission"
+  },
+  {
+    "text": "Everyone is entitled to be stupid, but you abuse the privilege.",
+    "slug": "everyone-is-entitled-to-be-stupid-but-you-abuse-the-privilege"
   }
 ]
