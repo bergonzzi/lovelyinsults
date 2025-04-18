@@ -1,16 +1,9 @@
-import { getRandomQuote, getAllCategories } from "@/lib/quotes"
+import { getRandomQuote } from "@/lib/quotes"
 import { QuoteDisplay } from "@/components/quote-display"
 
-export async function generateMetadata() {
-  const categories = getAllCategories()
-  const categoryText =
-    categories.length > 0 ? `Browse insults by categories: ${categories.slice(0, 5).join(", ")} and more.` : ""
-
-  return {
-    title: "Lovely Insults - Witty Comebacks",
-    description: `A collection of witty, non-swearing comebacks and insults. ${categoryText}`,
-    keywords: ["insult", "comeback", "witty", "clever", ...categories.slice(0, 10)],
-  }
+export const metadata = {
+  title: "Lovely Insults - Witty Comebacks",
+  description: "A collection of witty, non-swearing comebacks and insults.",
 }
 
 export default function Home() {

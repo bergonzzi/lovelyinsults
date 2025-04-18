@@ -31,29 +31,9 @@ const libreBaskerville = Libre_Baskerville({
   variable: "--font-libre-baskerville",
 })
 
-// Get the base URL and ensure it uses HTTPS
-let baseUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://lovelyinsults.com"
-if (baseUrl.startsWith("http://")) {
-  baseUrl = baseUrl.replace("http://", "https://")
-} else if (!baseUrl.startsWith("https://")) {
-  baseUrl = "https://" + baseUrl
-}
-
 export const metadata = {
   title: "Lovely Insults - Witty Comebacks",
   description: "A collection of witty, non-swearing comebacks and insults.",
-  openGraph: {
-    title: "Lovely Insults - Witty Comebacks",
-    description: "A collection of witty, non-swearing comebacks and insults.",
-    type: "website",
-    url: baseUrl,
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "Lovely Insults - Witty Comebacks",
-    description: "A collection of witty, non-swearing comebacks and insults.",
-  },
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
