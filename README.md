@@ -36,6 +36,25 @@ The sitemap is automatically generated based on the quotes in `data/quotes.json`
 
 The sitemap is available at `/sitemap.xml`.
 
+## Feature Flags
+
+The site uses feature flags to enable or disable certain functionality:
+
+### Search Feature
+
+The search functionality can be toggled on or off using the `NEXT_PUBLIC_ENABLE_SEARCH` environment variable:
+
+- Set to `"true"` to enable search (default)
+- Set to `"false"` to disable search
+
+When search is disabled:
+- The search button will not appear in the UI
+- The search page will show a "feature unavailable" message
+- Search-related API routes will return a 404
+
+This allows for A/B testing or gradually rolling out the search feature to users.
+
 ## Environment Variables
 
 - `NEXT_PUBLIC_SITE_URL`: The base URL of your website (e.g., https://lovelyinsults.com)
+- `NEXT_PUBLIC_ENABLE_SEARCH`: Controls whether the search feature is enabled ("true" or "false")
