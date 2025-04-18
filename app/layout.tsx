@@ -53,7 +53,6 @@ export const metadata = {
     title: "Lovely Insults - Witty Comebacks",
     description: "A collection of witty, non-swearing comebacks and insults.",
   },
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({

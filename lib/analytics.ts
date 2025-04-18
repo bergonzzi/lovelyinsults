@@ -1,4 +1,3 @@
-// Track search events in Google Analytics
 export function trackSearch(searchTerm: string, resultsCount: number) {
   if (typeof window !== "undefined" && window.gtag) {
     window.gtag("event", "search", {

@@ -1,4 +1,3 @@
-// Add Google Analytics types
 interface Window {
   gtag: (
     command: string,
