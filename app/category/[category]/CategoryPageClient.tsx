@@ -1,6 +1,6 @@
 "use client"
 
-import { useState, useEffect } from "react"
+import { useState, useEffect, Suspense } from "react"
 import { useRouter } from "next/navigation"
 import Link from "next/link"
 import type { Quote } from "@/lib/quotes"
@@ -13,7 +13,8 @@ import { getQuotesByCategory } from "@/lib/quotes"
 // Number of results per page
 const RESULTS_PER_PAGE = 20
 
-export function CategoryPageContent({ categorySlug }: { categorySlug: string }) {
+// Component that uses window.location.search
+function CategoryPageContentInner({ categorySlug }: { categorySlug: string }) {
   const router = useRouter()
   const categoryName =
     decodeURIComponent(categorySlug).charAt(0).toUpperCase() + decodeURIComponent(categorySlug).slice(1)
@@ -211,6 +212,45 @@ export function CategoryPageContent({ categorySlug }: { categorySlug: string }) 
         <footer className="text-center text-xs text-gray-500 dark:text-gray-400">
           © {new Date().getFullYear()} Lovely Insults. All rights reserved.
         </footer>
+      </div>
+    </main>
+  )
+}
+
+// Wrap in Suspense boundary
+export function CategoryPageContent({ categorySlug }: { categorySlug: string }) {
+  return (
+    <Suspense fallback={<CategoryPageFallback categorySlug={categorySlug} />}>
+      <CategoryPageContentInner categorySlug={categorySlug} />
+    </Suspense>
+  )
+}
+
+// Simple fallback for the Suspense boundary
+function CategoryPageFallback({ categorySlug }: { categorySlug: string }) {
+  const categoryName =
+    decodeURIComponent(categorySlug).charAt(0).toUpperCase() + decodeURIComponent(categorySlug).slice(1)
+
+  return (
+    <main className="flex min-h-screen flex-col items-center justify-start pt-16 p-4 bg-white dark:bg-gray-900">
+      <div className="max-w-xl w-full space-y-8">
+        <div className="text-center">
+          <h1 className="text-4xl font-extrabold tracking-tight text-gray-800 dark:text-gray-100 font-title">
+            Lovely Insults
+          </h1>
+          <p className="mt-2 text-sm text-gray-500 dark:text-gray-400">Loading category...</p>
+        </div>
+        <div className="flex items-center gap-2">
+          <div className="h-8 w-20 animate-pulse bg-gray-200 dark:bg-gray-700 rounded-md"></div>
+        </div>
+        <div className="space-y-4">
+          <div className="h-8 w-48 animate-pulse bg-gray-200 dark:bg-gray-700 rounded-md"></div>
+          <div className="space-y-4">
+            {Array.from({ length: 5 }).map((_, i) => (
+              <div key={i} className="h-24 w-full animate-pulse bg-gray-200 dark:bg-gray-700 rounded-md"></div>
+            ))}
+          </div>
+        </div>
       </div>
     </main>
   )

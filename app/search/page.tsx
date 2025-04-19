@@ -1,8 +1,7 @@
 "use client"
 
 import type React from "react"
-
-import { useState, useEffect, useRef } from "react"
+import { useState, useEffect, useRef, Suspense } from "react"
 import { useSearchParams, useRouter } from "next/navigation"
 import Link from "next/link"
 import { quotes, type Quote } from "@/lib/quotes"
@@ -17,7 +16,8 @@ import { trackSearch, trackSearchPagination, trackSearchRefinement } from "@/lib
 // Number of results per page
 const RESULTS_PER_PAGE = 20
 
-export default function SearchResultsPage() {
+// Component that uses useSearchParams
+function SearchContent() {
   const searchParams = useSearchParams()
   const router = useRouter()
   const initialQuery = searchParams.get("q") || ""
@@ -317,7 +317,7 @@ export default function SearchResultsPage() {
                         />
                       </Link>
 
-                      {/* Categories - FIXED: Don't wrap CategoryBadge in Link */}
+                      {/* Categories */}
                       {quote.categories && quote.categories.length > 0 && (
                         <div className="flex flex-wrap gap-2 mt-2">
                           {quote.categories.map((category) => (
@@ -381,6 +381,37 @@ export default function SearchResultsPage() {
         <footer className="text-center text-xs text-gray-500 dark:text-gray-400">
           © {new Date().getFullYear()} Lovely Insults. All rights reserved.
         </footer>
+      </div>
+    </main>
+  )
+}
+
+// Wrap in Suspense boundary
+export default function SearchResultsPage() {
+  return (
+    <Suspense fallback={<SearchFallback />}>
+      <SearchContent />
+    </Suspense>
+  )
+}
+
+// Simple fallback for the Suspense boundary
+function SearchFallback() {
+  return (
+    <main className="flex min-h-screen flex-col items-center justify-start pt-16 p-4 bg-white dark:bg-gray-900">
+      <div className="max-w-xl w-full space-y-8">
+        <div className="text-center">
+          <h1 className="text-4xl font-extrabold tracking-tight text-gray-800 dark:text-gray-100 font-title">
+            Lovely Insults
+          </h1>
+          <p className="mt-2 text-sm text-gray-500 dark:text-gray-400">Loading search...</p>
+        </div>
+        <div className="h-10 w-full animate-pulse bg-gray-200 dark:bg-gray-700 rounded-md"></div>
+        <div className="space-y-4">
+          {Array.from({ length: 3 }).map((_, i) => (
+            <div key={i} className="h-24 w-full animate-pulse bg-gray-200 dark:bg-gray-700 rounded-md"></div>
+          ))}
+        </div>
       </div>
     </main>
   )
